@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaixihen.github.io/meiriheiliab/sitemap.xml
